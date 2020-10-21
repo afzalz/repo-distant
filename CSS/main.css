@@ -1,0 +1,19 @@
+.red
+{
+    background-color: red;
+    width:110px; 
+    height:110px;
+    margin: 0 auto; 
+}
+
+.blue
+{
+    background-color: blue;
+    width:110px; 
+    height:110px;
+    margin: 0 auto; 
+}
+
+p{
+    color: white;
+}
